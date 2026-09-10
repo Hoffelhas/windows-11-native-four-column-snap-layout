@@ -1,6 +1,6 @@
 // ==WindhawkMod==
-// @id           native-four-column-windows-snap-layout
-// @name         Native Four-Column Windows Snap Layout
+// @id           windows-11-native-four-column-snap-layout
+// @name         Windows 11 Native Four Column Snap Layout
 // @description  Adds an extra native Windows 11 Snap Layout with four equal vertical columns
 // @version      1.0
 // @author       Hoffelhas
@@ -11,7 +11,7 @@
 
 // ==WindhawkModReadme==
 /*
-# Native Four-Column Windows Snap Layout
+# Windows 11 Native Four Column Snap Layout
 
 Adds an extra native Windows 11 Snap Layout with four equal vertical columns:
 
